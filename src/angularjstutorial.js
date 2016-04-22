@@ -24,3 +24,6 @@ app.service("ravensService", function ($http, $q)
 		console.log($scope.players);
 	});
 })
+
+
+ 
